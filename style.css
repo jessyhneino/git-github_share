@@ -17,7 +17,7 @@
 .container h1:active {
     color: green;
 }.container h1:hover {
-    color: blue;
+    color: red;
 }
 .container h1:active {
     color: green;
