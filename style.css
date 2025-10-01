@@ -1,5 +1,6 @@
 .container {
-    display: grid;
+    display: flex;
+    grid-template-columns: repeat(3, 1fr);
 }
 .container h1 {
     color: red;
