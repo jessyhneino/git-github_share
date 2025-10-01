@@ -17,9 +17,6 @@
 .container h1:active {
     color: black;
 }.container h1:hover {
-    color: red;
-}
-.container h1:active {
     color: green;
 }
 .container h1:active {
@@ -29,5 +26,17 @@
     color: green;
 }
 .container h1:active {
+    color: green;
+}
+
+
+.container h1:activee2 {
+    color: green;
+}
+
+.container h1:active21 {
+    color: green;
+}
+.container h1:active23 {
     color: green;
 }
