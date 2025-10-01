@@ -1,3 +1,12 @@
 .container {
     display: flex;
 }
+.container h1 {
+    color: red;
+}
+.container h1:hover {
+    color: blue;
+}
+.container h1:active {
+    color: green;
+}
